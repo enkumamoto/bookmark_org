@@ -81,11 +81,4 @@ O `alpha.py` gera um arquivo HTML estruturado com:
 - Ambos os scripts modificam/geram arquivos localmente
 - Recomenda-se fazer backup dos favoritos originais antes de processá-los
 - O `remove_duplicate_lines.py` pode ser usado em qualquer arquivo de texto, não apenas em HTML
-
-## Melhorias Futuras Possíveis
-
-- Combinar os dois scripts em um único pipeline
-- Adicionar opção para remover URLs mortas
-- Incluir interface gráfica ou linha de comando mais amigável
-- Suporte a diferentes formatos de exportação de favoritos
-```
+---
